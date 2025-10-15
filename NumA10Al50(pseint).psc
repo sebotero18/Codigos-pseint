@@ -1,8 +1,8 @@
 Algoritmo NumA10Al50
 	Definir num, num15 Como Real
-	Escribir "digite el numero para dismunuirlo en un 15%"
-	leer num
+	num<-azar(51)
 	num15<-num*0.85
-	Escribir "el numero resultante es " num15
+	Escribir "el número que le ha tocado es ", num, " y disminuido en un 15% es ", num15
+	
 	
 FinAlgoritmo
